@@ -1,5 +1,4 @@
 fastapi==0.122.0
-numpy==2.3.5
-opencv_python
+numpy==1.26.4
+opencv-python==4.9.0.80
 ultralytics==8.3.232
-
