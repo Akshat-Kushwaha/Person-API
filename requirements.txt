@@ -8,3 +8,4 @@ pydantic==2.6.1
 starlette==0.36.3
 torch>=2.0.0
 torchvision>=0.15.0
+python-multipart==0.0.9
